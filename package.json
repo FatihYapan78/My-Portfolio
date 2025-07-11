@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihYapan78/YAZILIM-DERSLER-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatihYapan78/YAZILIM-DERSLER-/issues"
+  },
+  "homepage": "https://github.com/FatihYapan78/YAZILIM-DERSLER-#readme",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "@tailwindcss/postcss": "^4.1.11",
+    "flowbite": "^3.1.2",
+    "postcss": "^8.5.6",
+    "swiper": "^11.2.10",
+    "tailwindcss": "^4.1.11"
+  }
+}
